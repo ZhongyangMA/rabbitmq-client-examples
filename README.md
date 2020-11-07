@@ -1,4 +1,5 @@
 # rabbitmq-client-examples
+
 For the purpose of learning, I created this repo of RabbitMQ code examples, which is much easier to follow than the tutorial given by the official site.  
 
 Along with this repo, I have also published an article, where I recorded down some important aspects of message queue and several relating stuffs. Welcome to visit and leave your valuable comments: 
